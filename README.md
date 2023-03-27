@@ -1,4 +1,4 @@
-<h1>Hi, I'm Corwynn, an <a href="https://www.linkedin.com/in/corwynn-bohman-546689240/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Corwynn, an <a href="https://www.linkedin.com/in/corwynn-bohman-546689240/">IT Help Desk Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
