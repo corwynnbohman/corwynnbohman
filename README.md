@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Creating and using a Virtual Machine (Microsoft Azure</b>
+  - [How to build and operate VMs in Azure](https://github.com/corwynnbohman/osticket-prereqs)
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/corwynnbohman/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/corwynnbohman/post-install-config)
