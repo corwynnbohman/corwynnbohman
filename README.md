@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Creating and using a Virtual Machine (Microsoft Azure</b>
+- <b>Creating and using a Virtual Machine (Microsoft Azure)</b>
   - [How to build and operate VMs in Azure](https://github.com/corwynnbohman/building-VMs)
 
 
